@@ -1,8 +1,8 @@
 > **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
-#  **How To Create a Radial Menu on Lite Wearable**
+#  **How To Create a Radial Menu on SportWatch**
 
-HarmonyOS application that showing how a Radial Menu can be implemented on lite wearable devices.
+HarmonyOS application that showing how a Radial Menu can be implemented on SportWatch devices.
 
 # Preview
 
@@ -56,7 +56,7 @@ entry/src/main/js/MainAbility
 
 
 
-**How To Create a Radial Menu on Lite Wearable** is distributed under the terms of the MIT License
+**How To Create a Radial Menu on SportWatch** is distributed under the terms of the MIT License
 
 See the [LICENSE](/LICENSE) for more information.
 
